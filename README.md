@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JoseHichez](https://github.com/JoseHichez)
 
-- 💬 Ask me about **iOS, MEARN**
+- 💬 Ask me about **C, Java, iOS, MEARN**
 
 - 📫 How to reach me **jose.hichez@gmail.com**
 
